@@ -1,9 +1,3 @@
-# This project is doing bulk gmail deletes based on read versus unread email
-# After download open finder (for mac) to copy and paste in the folder
-# Installed appropriate Google client library for python in terminal
-# Ensure that credentials.json is in desktop application
-
-### Calling Gmail API
 import os
 import json
 from datetime import datetime
